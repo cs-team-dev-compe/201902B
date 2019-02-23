@@ -37,6 +37,5 @@ Eric Meyer’s “Reset CSS” 2.0
 ## タイポグラフィ
 
 ## 担当
-
-フロント → 米吉
-サーバー → 青木
+メインページ→米吉
+header,footer,topページ→青木
