@@ -1,0 +1,16 @@
+.article {
+    height: 2000px;
+}
+
+h1 {
+    font-size: 50px;
+    padding: 0.5em 1em;
+    margin: 0;
+    color: #2c2c2f;
+    background: #228b22;
+    /*背景色*/
+}
+
+.article__section{
+    height: 200px;
+}
