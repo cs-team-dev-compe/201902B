@@ -18,9 +18,9 @@
           なんといっても充実した充宿泊施設!!グランピングキャンプから普通のキャンプまですべて体感できる。なかでも注目は1泊2食材付きの「テントヴィラ」。豪華テントと食材が提供され、贅沢なアウトドア気分が味わえます。
         </p>
         <a href="http://yoshida.pica-village.jp/"
-        >http://yoshida.pica-village.jp/</a
-      >
-        >
+        >PICA富士吉田</a>
+        
+
       </section>
       <section class="article__section">
         <strong class="article__link1--section">白崎海洋公園</strong>
@@ -29,9 +29,8 @@
         </p>
         <a
         href="https://www.google.com/search?rlz=1C1EJFA_enJP695JP706&ei=lfFwXIOFM4yj8QWN3pKIBw&q=%E7%99%BD%E5%B4%8E%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%E3%80%80&oq=%E7%99%BD%E5%B4%8E%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%E3%80%80&gs_l=psy-ab.3..0l8.1515.1613..2273...0.0..0.125.232.0j2......0....1..gws-wiz.pAkrEs0dQyM"
-        >https://www.google.com/search?rlz=1C1EJFA_enJP695JP706&ei=lfFwXIOFM4yj8QWN3pKIBw&q=%E7%99%BD%E5%B4%8E%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%E3%80%80&oq=%E7%99%BD%E5%B4%8E%E6%B5%B7%E6%B4%8B%E5%85%AC%E5%9C%92%E3%80%80&gs_l=psy-ab.3..0l8.1515.1613..2273...0.0..0.125.232.0j2......0....1..gws-wiz.pAkrEs0dQyM</a
-      >
-        >
+        >白崎海洋公園</a>
+        
       </section>
       <section class="article__section">
         <strong class="article__link1--section">グランピング×農業体験「THE FARM」</strong>
@@ -41,8 +40,7 @@
         </p>
         <a
           href="https://www.thefarm.jp/"
-          >https://www.thefarm.jp/</a
-        >
+          >THE FARM</a>
       </section>
       <section class="article__section">
         <strong class="article__link1--section">若杉高原おおやキャンプ場</strong>
@@ -50,7 +48,7 @@
           星空を見るならココ!!かつて「星がきれいにみえるまち全国1位」にも輝いたことがある。冬はスキー場になり、夏場はソリなどもして遊べるので小さいお子さんがいるご家庭には最適です。
         </p>
         <a href="http://www.ooya-ski.jp/stay1.html"
-          >http://www.ooya-ski.jp/stay1.html</a
+          >若杉高原おおやキャンプ場</a
         >
       </section>
     </article>
