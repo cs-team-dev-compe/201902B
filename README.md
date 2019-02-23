@@ -35,7 +35,7 @@ Eric Meyer’s “Reset CSS” 2.0
 アウトドアっぽ雰囲気
 
 ## タイポグラフィ
-
+Impact
 ## 担当
 メインページ→米吉
 header,footer,topページ→青木
