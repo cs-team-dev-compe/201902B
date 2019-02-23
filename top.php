@@ -15,8 +15,8 @@
 
     <main class="topPage">
         <div class="topPage__photo">
-            <p class="topPage__title">タイトル</p>
-            <a href="index.php" class="topPage__link">読んでみる</a>
+            <p class="topPage__title">CAMP</p>
+            <a href="index.php" class="topPage__link">start</a>
         </div>
     </main>
 </body>

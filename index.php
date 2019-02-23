@@ -10,6 +10,16 @@
     <link rel="stylesheet" href="flont.css">
   </head>
   <body>
+    
+<header>
+  <p class="title">
+    CAMP
+  </p>
+  <ul>
+    <li><a href="top.php">Top</a></li>
+    <li><a href="about.php">About</a></li>
+  </ul>
+</header>
     <article class="article">
       <h1>おすすめのキャンプ場紹介</h1>
       <section class="article__section">
@@ -52,5 +62,13 @@
         >
       </section>
     </article>
+    
+<footer>
+  <a href="#top" class="footer__link">Topへ</a>
+</footer>
+
+
+    </body>
+    </html>
   </body>
 </html>
