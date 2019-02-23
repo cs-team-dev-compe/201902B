@@ -1,12 +1,14 @@
 <?php
 
 // ヘッダーを読み込む
-require_once("./head.php");
-require_once("./header.html");
-$title = about
+include "./head.php";
+$title = about;
+
 
 ?>
 <!-- aboutページです -->
+
+<?= require_once("./header.html");?>
 
 <article　class="aboutArticle">
     <section class="aboutArticle__section">
@@ -15,3 +17,5 @@ $title = about
 
     </section>
 </article>
+
+<?= require_once("./footer.html");
