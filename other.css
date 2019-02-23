@@ -73,4 +73,28 @@ footer a {
 }
 
 /* about部分 */
+.aboutArticle {
+}
 
+.aboutArticle__photo {
+  width: 50%;
+  height: 600px;
+  background-image: url(./picture/kevin-erdvig-761286-unsplash.jpg);
+  background-position: center;
+  background-size: cover;
+  border-radius: 10px;
+}
+.aboutArticle__section {
+  display: flex;
+  justify-content: center;
+  width: 70%;
+  margin-right: 15%;
+  margin-left: 15%;
+}
+.aboutArticle__section--content {
+  width: 45%;
+  flex: 1;
+  height: 600px;
+  margin-right: 5%;
+  font-size: 30px;
+}
